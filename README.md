@@ -21,7 +21,7 @@ goarch: amd64
 BenchmarkGRPCProtobuf-8            10000            117649 ns/op            7686 B/op        154 allocs/op
 BenchmarkHTTPJSON-8                10000            105837 ns/op            8932 B/op        116 allocs/op
 PASS
-ok      github.com/plutov/benchmark-grpc-protobuf-vs-http-json  4.340s
+ok      github.com/alekseysychev/benchmark-grpc-protobuf-vs-http-json-vs-http-jsoniter  4.340s
 ```
 
 They are almost the same, HTTP+JSON is a bit faster and has less allocs/op.

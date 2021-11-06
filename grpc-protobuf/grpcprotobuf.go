@@ -6,7 +6,7 @@ import (
 	"net"
 	"net/mail"
 
-	"github.com/plutov/benchmark-grpc-protobuf-vs-http-json/grpc-protobuf/proto"
+	"github.com/alekseysychev/benchmark-grpc-protobuf-vs-http-json-vs-http-jsoniter/grpc-protobuf/proto"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

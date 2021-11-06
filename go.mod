@@ -1,4 +1,5 @@
-module github.com/plutov/benchmark-grpc-protobuf-vs-http-json
+module github.com/alekseysychev/benchmark-grpc-protobuf-vs-http-json-vs-http-jsoniter
+
 
 require (
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect

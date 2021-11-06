@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/plutov/benchmark-grpc-protobuf-vs-http-json/grpc-protobuf"
-	"github.com/plutov/benchmark-grpc-protobuf-vs-http-json/grpc-protobuf/proto"
+	"github.com/alekseysychev/benchmark-grpc-protobuf-vs-http-json-vs-http-jsoniter/grpc-protobuf"
+	"github.com/alekseysychev/benchmark-grpc-protobuf-vs-http-json-vs-http-jsoniter/grpc-protobuf/proto"
 	"golang.org/x/net/context"
 	g "google.golang.org/grpc"
 )
